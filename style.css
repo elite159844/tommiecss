@@ -8,9 +8,9 @@ body{
     place-items: center;
     height: 100vh;
     text-align: center;
-    font-family: montserrat;
+    font-family: monospace;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 15px;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 2px #fff;
 }
@@ -19,11 +19,55 @@ body{
     place-items: center;
     height: 90vh;
     text-align: center;
-    font-family: cursive;
-    text-transform: uppercase;
+    font-family: monospace;
+    text-transform: none;
+    font-size: 19px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px hsl(0, 0%, 100%);
+}
+.text-area3{
+    display: bottom;
+    place-items: center;
+    height: 90vh;
+    text-align: center;
+    font-family: monospace;
+    text-transform: none;
+    font-size: 19px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px hsl(0, 0%, 100%);
+}
+.text-area4{
+    display: bottom;
+    place-items: center;
+    height: 90vh;
+    text-align: center;
+    font-family: monospace;
+    text-transform: none;
+    font-size: 19px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px hsl(0, 0%, 100%);
+}
+.text-area5{
+    display: bottom;
+    place-items: center;
+    height: 90vh;
+    text-align: center;
+    font-family: monospace;
+    text-transform: none;
     font-size: 20px;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke: 2px #fff;
+    -webkit-text-stroke: 2px hsl(0, 0%, 100%);
+}
+.text-area6{
+    display: bottom;
+    place-items: center;
+    height: 90vh;
+    text-align: center;
+    font-family: monospace;
+    text-transform: none;
+    font-size: 20px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px hsl(0, 0%, 100%);
 }
 .wrapper{
     position: absolute;
@@ -81,23 +125,23 @@ body{
 }
 .round:nth-child(10){
     left: 45%;
-    animation-delay: 5s;
+    animation-delay: 4s;
 }
 .round:nth-child(11){
     left: 36%;
-    animation-delay: 5.5s;
+    animation-delay: 3s;
 }
 .round:nth-child(12){
     left: 72%;
-    animation-delay: 6s;
+    animation-delay: 2s;
 }
 .round:nth-child(13){
     left: 14%;
-    animation-delay: 6.5s;
+    animation-delay: 2.5s;
 }
 .round:nth-child(14){
     left: 14%;
-    animation-delay: 7s;
+    animation-delay: 1.2s;
 }
 
 @keyframes animate{
