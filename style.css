@@ -184,29 +184,6 @@ body{
     50%{
         transform: scale(2.5);
     }
-    50%{
-        transform: scale(3.5)
-    }
-    50%{
-        transform: scale(4.5)
-    }
-    50%{
-        transform: scale(5.5)
-    }
-    50%{
-        transform: scale(6.5)
-    }
-    50%{
-        transform: scale(7.5)
-    }
-    50%{
-        transform: scale(8.5)
-    }
-    50%{
-        transform: scale(9.5)
-    }
-    50%{
-        transform: scale(10.5)
-    }
 
+    
 }
