@@ -137,27 +137,27 @@ body{
 @keyframes animate{
     0%{
         top: 0;
-        opacity: 4;
+        opacity: 15;
     }
     20%{
         top: 20%;
-        opacity: 3.5;
+        opacity: 12.5;
     }
     40%{
         top: 40%;
-        opacity: 3;
+        opacity: 11;
     }
     60%{
         top: 60%;
-        opacity: 2.5;
+        opacity: 7.5;
     }
     80%{
         top: 80%;
-        opacity: 2.0;
+        opacity: 4.5;
     }
     100%{
         top: 100%;
-        opacity: 1;
+        opacity: 3.5;
     }
 }
 
