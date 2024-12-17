@@ -75,7 +75,7 @@ body{
     border: 5px solid #01b4f9;
     /opacity: 0;
     box-shadow: 0 0 100px #01b4f9, 0 0 10px #01b4f9, 0 0 20px #01b4f9;
-    animation: round; infinite
+    animation: animate 4s linear infinite, ani-2 2s linear
     
 }
 .round:nth-child(1){
