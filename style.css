@@ -79,7 +79,7 @@ body{
 }
 .round:nth-child(1){
     left: 5%;
-    animation-duration: 4.86811s;
+    animation-duration: 4s;
     animation-delay: 0.5s;
 
 }
