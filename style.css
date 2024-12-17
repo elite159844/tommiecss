@@ -89,8 +89,8 @@ body{
 }
 .round{
     position: absolute;
-    width: 27.4629px;
-    height: 27.4629px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
     background-color: #01b4f9;
     border: 5px solid #01b4f9;
