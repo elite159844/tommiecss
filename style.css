@@ -97,4 +97,13 @@ h1 {
     margin-right: 0;
     font-size: 17px;
   }
+  a {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 17px;
+    color:azure;
+  }
   
