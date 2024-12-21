@@ -24,7 +24,7 @@ section
 }
 section h1
 {
-    color: #fff;
+    color: #f0e6e6;
     text-transform: none;
 }
 .star
@@ -65,7 +65,7 @@ section h1
     top: 50%;
     left: 0;
     right: 0;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     font-family: arial;
     font-weight: 300;
@@ -77,7 +77,7 @@ section h1
 }
 
 #title span {
-    background: -webkit-linear-gradient(white, #38495a);
+    background: -webkit-linear-gradient(white, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -106,4 +106,6 @@ h1 {
     font-size: 17px;
     color:azure;
   }
-  
+span {
+    font-family: Comic;
+}
