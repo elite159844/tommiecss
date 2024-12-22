@@ -67,7 +67,7 @@ section h1
     right: 0;
     color: #ffffff;
     text-align: center;
-    font-family: arial;
+    font-family: cursive;
     font-weight: 300;
     font-size: 50px;
     letter-spacing: none;
@@ -107,5 +107,6 @@ h1 {
     color:azure;
   }
 span {
-    font-family: Comic;
+    font-family: cursive;
+    font-size: 45px;
 }
